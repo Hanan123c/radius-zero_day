@@ -22,5 +22,4 @@ To learn how to navigate the Linux filesystem, explore the terminal environment,
 ## What I Learned
 I learned how to navigate the Linux filesystem using absolute and relative paths. I also learned how to identify my current location, inspect files, create directories, and create README files.
 
-## Environment
-I used the Termux terminal on Android to complete this task.
+
